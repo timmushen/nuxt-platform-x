@@ -30,6 +30,8 @@
     "collectCoverage": true
   },
   "dependencies": {
+    "@fortawesome/pro-light-svg-icons": "^5.7.2",
+    "@fortawesome/pro-solid-svg-icons": "^5.7.2",
     "nuxt-fontawesome": "^0.4.0",
     "tailwindcss": "^0.7.3",
     "vue-moment": "^4.0.0"
