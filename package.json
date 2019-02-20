@@ -1,6 +1,6 @@
 {
   "name": "@xenterprises/nuxt-platform-x",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Platform X Style Guide & Helpers",
   "license": "MIT",
   "contributors": [
@@ -30,17 +30,6 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free-brands": "^5.0.13",
-    "@fortawesome/fontawesome-pro": "^5.6.3",
-    "@fortawesome/fontawesome-svg-core": "^1.2.12",
-    "@fortawesome/free-brands-svg-icons": "^5.6.3",
-    "@fortawesome/free-regular-svg-icons": "^5.6.3",
-    "@fortawesome/free-solid-svg-icons": "^5.6.3",
-    "@fortawesome/pro-light-svg-icons": "^5.6.3",
-    "@fortawesome/pro-regular-svg-icons": "^5.6.3",
-    "@fortawesome/pro-solid-svg-icons": "^5.6.3",
-    "@fortawesome/vue-fontawesome": "^0.1.5",
-    "add": "^2.0.6",
     "nuxt-fontawesome": "^0.4.0",
     "tailwindcss": "^0.7.3",
     "vue-moment": "^4.0.0"

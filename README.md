@@ -1,12 +1,5 @@
 # nuxt-platform-x
 
-[![David-DM][david-dm-src]][david-dm-href]
-[![Standard JS][standard-js-src]][standard-js-href]
-[![Circle CI][circle-ci-src]][circle-ci-href]
-[![Codecov][codecov-src]][codecov-href]
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
-
 > Platform X Style Guide & Helpers
 
 [📖 **Release Notes**](./CHANGELOG.md)
@@ -20,11 +13,16 @@
 {
   modules: [
     // Simple usage
-    'nuxt-platform-x',
+    "nuxt-platform-x",
 
     // With options
-    ['nuxt-platform-x', { /* module options */ }],
- ]
+    [
+      "nuxt-platform-x",
+      {
+        /* module options */
+      }
+    ]
+  ];
 }
 ```
 
@@ -41,6 +39,7 @@
 Copyright (c) Tim Mushen <t@x.enterprises>
 
 <!-- Badges -->
+
 [david-dm-src]: https://david-dm.org//status.svg?style=flat-square
 [david-dm-href]: https://david-dm.org/
 [standard-js-src]: https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square
