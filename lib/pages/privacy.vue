@@ -215,7 +215,7 @@ h1 {
   @apply pb-6 font-black;
 }
 h2 {
-  @apply uppercase font-black;
+  @apply pb-3 uppercase font-black;
 }
 strong {
   @apply font-black leading-tight mb-2;
@@ -236,7 +236,7 @@ a:hover {
   @apply text-grey-darkest no-underline;
 }
 section {
-  @apply mb-10;
+  @apply mb-12;
 }
 </style>
 <script>

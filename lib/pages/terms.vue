@@ -4,7 +4,7 @@
       <h1>Terms of Service</h1>
     </div>
     <section>
-      <p>Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the https://x.enterprises website (the "Service") operated by X Enterprises ("us", "we", or "our").</p>
+      <p>Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the website (the "Service") operated by X Enterprises ("us", "we", or "our").</p>
       <p>Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who wish to access or use the Service.</p>
       <p>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you do not have permission to access the Service.</p>
     </section>
@@ -145,7 +145,7 @@ h1 {
   @apply pb-6 font-black;
 }
 h2 {
-  @apply uppercase font-black;
+  @apply pb-3 uppercase font-black;
 }
 strong {
   @apply font-black leading-tight mb-2;
